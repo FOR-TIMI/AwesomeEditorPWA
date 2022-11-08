@@ -1,8 +1,10 @@
 {
   "name": "JATE",
+  "version": "1.0.0",
+  "private": "true",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "webpack --mode production",
+    "build": "webpack --mode development",
     "start": "webpack --watch"
   },
   "author": "2U",
