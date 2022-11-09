@@ -4,11 +4,11 @@ const initdb = async () =>
   openDB('jate', 1, {
     upgrade(db) {
       if (db.objectStoreNames.contains('jate')) {
-        console.log('jate database already exists');
+        console.info('jate database already exists');
         return;
       }
       db.createObjectStore('jate', { keyPath: 'id', autoIncrement: true });
-      console.log('jate database created');
+      console.info('jate database created');
     },
   });
 
@@ -17,7 +17,6 @@ export const putDb = async (content) => {
  //create conncection to indexDb
  const db = await openDB('jate',1);
 
- console.log(content)
  //Create new transaction
  const tx = db.transaction('jate','readwrite');
 
@@ -29,7 +28,7 @@ export const putDb = async (content) => {
 
  let response = await request;
  
- console.log('🚀 - data saved to the database', response);
+ console.info('🚀 - data saved to the database');
 }
 
 // Added logic for a method that gets all the content from the database
@@ -48,9 +47,8 @@ export const getDb = async () => {
    // response
    let response  = await request;
    response = response.map(response => response.value);
- 
-   console.log(`All in the database`,response);
-
+  
+   console.info('Getting all Data from database')
    return response[0];
 };
 
