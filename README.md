@@ -1,4 +1,4 @@
-<h1 align="center">Just Another Text Editor (J.A.T.E)</h1>
+<h1 align="center">Awesome Text Editor (PWA)</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=mit&logoColor=white""/>
@@ -57,7 +57,7 @@ With this text editor web application,
 
 ## Installation
 To set up and utilise this project. Take the following steps.
-- Step 1: Clone this repository. you can do this by running ``` git clone https://github.com/FOR-TIMI/Text-Editor.git``` in your terminal
+- Step 1: Clone this repository. you can do this by running ``` git clone https://github.com/FOR-TIMI/AwesomeEditorPWA.git``` in your terminal
 - ![image](https://user-images.githubusercontent.com/104241247/200735701-c6786a58-ac1b-469d-8002-d84b69b797b4.png)
 - Step 2: Install dependencies by running the ``` npm install ``` command in the command line
 - Step 3: Open your code editor by running the command ``` code . ```
