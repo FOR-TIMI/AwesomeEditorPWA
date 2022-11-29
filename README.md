@@ -25,6 +25,11 @@
 
 ## Description
 A Progressive web application that allows users to create notes or code snippets with or without an internet connection so  they can reliably retrieve them for later use
+
+## Support the project ⭐
+If you feel awesome and want to support us in a small way, please consider following me, starring and sharing the repo! This helps us getting known and grow the community. 🙏
+ 
+ ![image](https://raw.githubusercontent.com/lusaxweb/vuesax/master/public/github-vuesax-star.gif)
                                                                                                                     
 ## Table of Content
 - [Purpose](#purpose)
