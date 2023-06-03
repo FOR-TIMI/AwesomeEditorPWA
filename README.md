@@ -26,8 +26,7 @@
 ## Description
 A Progressive web application that allows users to create notes or code snippets with or without an internet connection so  they can reliably retrieve them for later use.
 
-## Support the project ⭐
-If you  want to support me, please consider following me, starring and sharing the repo! This helps us getting known and grow the community. 🙏
+
  
  ![image](https://raw.githubusercontent.com/lusaxweb/vuesax/master/public/github-vuesax-star.gif)
                                                                                                                     
@@ -90,6 +89,9 @@ To set up and utilise this project. Take the following steps.
 - ![image](https://user-images.githubusercontent.com/104241247/200740650-97e64134-32fe-48ca-b6f5-0f4318e806c3.png)
 - ![image](https://user-images.githubusercontent.com/104241247/200740716-a66e6c9d-3eb9-452a-93f6-88c8e374f2fb.png)
 - ![image](https://user-images.githubusercontent.com/104241247/200740769-ba3693b0-ed84-4458-8b92-ac1ff6a05331.png)
+                                                                                                                    
+## Support the project ⭐
+If you  want to support me, please consider following me, starring and sharing the repo! This helps us getting known and grow the community. 🙏                                                                                                                    
 
 ## Website Link
 https://salty-everglades-36024.herokuapp.com/
