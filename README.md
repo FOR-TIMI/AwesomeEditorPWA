@@ -29,6 +29,12 @@ A Progressive web application(PWA) that allows users to create notes or code sni
 
  
  ![image](https://raw.githubusercontent.com/lusaxweb/vuesax/master/public/github-vuesax-star.gif)
+
+
+ 
+## Support the project ⭐
+If you feel generous and appreciate some of my work [Buy me a coffee](https://www.buymeacoffee.com/timiplayskU) <br><br>
+<a href="https://www.buymeacoffee.com/timiplayskU" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="174"></a>
                                                                                                                     
 ## Table of Content
 - [Purpose](#purpose)
